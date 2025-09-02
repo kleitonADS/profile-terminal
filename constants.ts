@@ -4,7 +4,7 @@ import { ProfileData } from './types';
 export const PROFILE_DATA: ProfileData = {
   name: 'Kleiton Souza',
   title: 'Desenvolvedor Fullstack | Laravel & React.js | Criando Soluções Escaláveis com Foco em Performance e Resultados',
-  imageUrl: './FotoPerfilHome.png',
+  imageUrl: '/profile-terminal/FotoPerfilHome.png',
   about: [
     '🚀 Desenvolvedor Fullstack com mais de 4 anos de experiência especializado na construção e otimização de aplicações web robustas e escaláveis.',
     'Movido pela paixão em transformar desafios complexos em soluções técnicas elegantes e eficientes que impulsionam o sucesso dos negócios.',

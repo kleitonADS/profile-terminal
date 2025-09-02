@@ -28,7 +28,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
   return (
     <div className="w-full h-full flex flex-col items-center justify-center p-2 sm:p-4 text-center">
       <img
-        src="/FotoPerfilHome.png"
+        src="/profile-terminal/FotoPerfilHome.png"
         alt="Logo Kleiton Souza"
         className="w-24 h-24 md:w-32 md:h-32 rounded-full border-4 ] mb-4 shadow-lg object-cover"
         draggable="false"
