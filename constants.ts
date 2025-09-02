@@ -4,7 +4,7 @@ import { ProfileData } from './types';
 export const PROFILE_DATA: ProfileData = {
   name: 'Kleiton Souza',
   title: 'Desenvolvedor Fullstack | Laravel & React.js | Criando Soluções Escaláveis com Foco em Performance e Resultados',
-  imageUrl: '/FotoPerfilHome.png',
+  imageUrl: './FotoPerfilHome.png',
   about: [
     '🚀 Desenvolvedor Fullstack com mais de 4 anos de experiência especializado na construção e otimização de aplicações web robustas e escaláveis.',
     'Movido pela paixão em transformar desafios complexos em soluções técnicas elegantes e eficientes que impulsionam o sucesso dos negócios.',
@@ -18,7 +18,7 @@ export const PROFILE_DATA: ProfileData = {
     telefone: '61 993112205'
   },
 
-  resumeUrl: '/Kleiton-Souza-Curriculo.pdf',
+  resumeUrl: './Kleiton-Souza-Curriculo.pdf',
   experience: [
     {
       role: 'Desenvolvedor Fullstack PHP / Laravel / Python / ReactJS',
@@ -83,7 +83,7 @@ export const PROFILE_DATA: ProfileData = {
       description: 'Evolução de sistema para o Ministério do Desenvolvimento Agrário utilizando PHP, ZendFramework, HTML5, Bootstrap, e PostgreSQL.',
       team: ['Ederson Ferreira', 'Pedro H. Alarcão', 'Glédson Sousa', 'Paulo Cesar Goncalves'],
       technologies: ['PHP', 'ZendFramework', 'HTML5', 'Bootstrap', 'PostgreSQL'],
-      thumbnail: '/maisAlimentos.png'
+      thumbnail: './maisAlimentos.png'
     }
 
   ],
